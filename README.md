@@ -72,28 +72,16 @@ This project implements **Huffman Coding**, a lossless data compression algorith
 
 ---
 
-## Applications
-- **File Compression**: Reduce file sizes for storage and transmission.
-- **Multimedia Compression**: Applied in image, audio, and video compression (e.g., JPEG, MP3).
-- **Network Optimization**: Improves data transfer efficiency over networks.
-- **Efficient Data Storage**: Optimizes space for repetitive data.
+## 👨‍💻 Developer
+
+**Sanjay N** 🚀 Freelancer
+
+🌐 Portfolio: https://sanjayn.me  
+💼 LinkedIn: https://linkedin.com/in/sanjayn29  
+🐙 GitHub: https://github.com/sanjayn29  
 
 ---
 
-## Benefits
-- Reduces data size for storage and transmission.
-- Maintains data integrity with lossless compression.
-- Demonstrates a practical application of greedy algorithms.
-- Easy to integrate into real-world applications.
+## ⭐ Support
 
----
-
-## Contributions
-Contributions are welcome! If you’d like to improve or extend this project, feel free to fork the repository, make your changes, and submit a pull request.
-
----
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
-Explore the power of Huffman Text Compression and optimize your data today!
+If you like this project, consider giving it a **star ⭐ on GitHub** to support the development.
